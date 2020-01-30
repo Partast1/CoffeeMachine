@@ -53,11 +53,4 @@ public class Machine {
     }
 
 
-    private void StartBrewing()
-    {
-
-
-
-    }
-
 }
